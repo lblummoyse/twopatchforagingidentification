@@ -1,1 +1,1 @@
-# two_patch_foraging_identifiability
+# two_patch_foraging_identification

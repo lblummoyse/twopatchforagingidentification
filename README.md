@@ -1,4 +1,4 @@
-twopatchforagingidentification
+# Two-patch foraging identification
 
 This repository contains the code for the article:
 ``Socio-cognitive models in a patch foraging setting: a case study for model selection and parameter identifiability methods''

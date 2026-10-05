@@ -1,4 +1,4 @@
-Twopatchforagingidentification
+twopatchforagingidentification
 
 This repository contains the code for the article:
 ``Socio-cognitive models in a patch foraging setting: a case study for model selection and parameter identifiability methods''
@@ -35,7 +35,7 @@ Supplementary figures (SFig2 is generated inside the codes Fig3A.py - Fig4C.py)
 * SFig1.py
 * SFig3.py
 
-## model_selection_identifiability: first part of the Results
+## model_selection_identifiability folder: first part of the Results
 To generate the datasets and the likelihoods:
 * generate_likelihoods.py for Fig 6AB, Fig 7, Fig 8ABC
 * generate_likelihoods_P.py for Fig 6CD
